@@ -1,78 +1,61 @@
-![TNMT_Dashboard](https://github.com/user-attachments/assets/9ab4cdb4-8ba2-4fd6-9a07-b60ecff57361)
-# TNMT-Retail-Dashboard
-An interactive retail sales and profit dashboard that uncovers key business insights across regions, product categories, and sales channels — turning raw data into actionable strategies for growth.
-🛍️ TNMT Retail Sales and Profit Dashboard
-📖 Project Story
+![TNMT_Dashboard](https://github.com/user-attachments/assets/da233115-4728-4d2a-b362-864cbdea6c38)
 
-In today’s competitive retail world, leaders constantly ask:
+NMT Retail Sales and Profit Dashboard 📖
 
-“Which products drive the most sales?”
+I built this interactive dashboard to help TNMT Retail understand what’s really going on with their sales and profits across regions, product categories, and sales channels. It takes raw data and turns it into clear insights that actually help guide decisions.
 
-“Where are we making the highest profits?”
+What the Leadership Wanted to Know
 
-“Are our sales channels balanced, or are we too dependent on one?”
+In retail, there are always big questions like:
 
-To answer these questions, I built the TNMT Retail Sales and Profit Dashboard — an interactive report that turns raw sales data into clear, actionable insights.
+Which products are really selling?
 
-🎯 The Challenge
+Where are the highest profits coming from?
 
-TNMT Retail operates across multiple regions, sales channels, and product categories. While sales were strong, leadership lacked a single source of truth to:
+Are we relying too much on one sales channel?
 
-Monitor monthly sales performance
+Before this dashboard, TNMT’s leadership didn’t have a single place to get these answers. They were making decisions based more on gut feeling than data.
 
-Compare regional profitability
+What I Did
 
-Identify top and underperforming product categories
+I designed a dashboard that brings all these pieces together in one place.
 
-Understand how different sales channels contribute to growth
+At the top, you see the big numbers: Total Sales, Profit, and Margin — a quick look at how the business is doing overall.
 
-Without these insights, decision-making was based more on intuition than data.
+There’s a monthly sales chart that shows trends and helps spot seasonal ups and downs.
 
-🛠️ My Approach
+An interactive map lets you see which regions are bringing in the most profit.
 
-I designed a dashboard that connects all these pieces together.
+The product breakdown shows that Decoratives are leading in both sales and profit, while Sports isn’t doing so well.
 
-Total Sales, Profit, and Margin are highlighted at the top — giving executives an instant snapshot of business health.
+A pie chart breaks down sales by channeL : Online, In-Store, Distributor, and Wholesale; showing a nice balance, which means the company isn’t putting all its eggs in one basket.
 
-A monthly sales trend chart reveals seasonality and growth patterns.
+What Stood Out
 
-An interactive map shows profit distribution across regions, allowing for quick geographical comparisons.
+Decoratives are the star category for both sales and profit
 
-Category-level breakdowns highlight that Decoratives dominate sales and profit, while Sports lags behind.
+Furniture and Kitchen stuff sell well but don’t make as much profit
 
-A sales channel pie chart shows balanced performance across Online, In-Store, Distributor, and Wholesale — a sign of a healthy multichannel strategy.
+Sales dipped noticeably in February, maybe because of seasonality or fewer campaigns
 
-💡 Key Insights
+The West region leads in profits, but the South isn’t performing as well. Which gi a chance to rethink strategy there
 
-Decoratives is the star category, contributing both the highest sales and the highest profit.
+Sales channels are nicely balanced, which lowers risk
 
-Furniture and Kitchenery are strong contributors but have lower profit margins compared to Decoratives.
+Tools I Used
 
-Sales are steady, but February shows a noticeable dip, suggesting possible seasonality or campaign gaps.
+Power BI and Excel to build and visualize the dashboard
 
-Regional performance varies — the West leads in profit, while the South underperforms, signaling opportunities for regional strategy shifts.
+Simple data storytelling to make the numbers easy to understand and act on
 
-Sales channels are well-balanced, reducing risk of overdependence on one channel.
+What’s Next
 
-📷 Dashboard Preview
+I want to add sales and profit forecasts so TNMT can plan ahead better.
 
-🚀 Tools Used
+Adding customer segmentation will give deeper marketing insights.
 
-Power BI / Excel → Dashboard creation & visualization
+And automating data updates will keep everything fresh and ready whenever it’s needed.
 
-Data storytelling techniques → To translate numbers into business insights
+Why It Matters
 
-🔮 Next Steps
-
-To make this dashboard even more powerful, I plan to:
-
-Add forecasting models to predict sales & profit trends
-
-Integrate customer segmentation for deeper marketing insights
-
-Automate data refresh to keep the dashboard live and up to date
-
-📌 Why This Project Matters
-
-This project reflects my ability to not just analyze data, but to tell the story behind the numbers. By building this dashboard, I turned a large, complex dataset into a clear narrative that helps business leaders make smarter, faster decisions.
-
+This project isn’t just about making charts. It’s about turning lots of confusing numbers into a story that helps leaders make better, faster decisions. That’s what I’m proud of.
